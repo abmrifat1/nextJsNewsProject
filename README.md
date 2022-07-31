@@ -22,6 +22,11 @@ sudo npm i -g serve
 
 #then for run on server
 serve -s out -p 8000
+
+#run
+http://localhost:8000/
+
+#thats cool
 ```
 
 
